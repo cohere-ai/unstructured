@@ -16,7 +16,7 @@ bertopic==0.14.1
 black==23.3.0
 bleach==6.0.0
 cachetools==5.3.0
-certifi==2022.12.7
+certifi==2024.7.4
 cffi==1.15.1
 charset-normalizer==3.1.0
 click==8.1.3
