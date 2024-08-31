@@ -105,7 +105,7 @@ oauthlib==3.2.2
 olefile==0.46
 omegaconf==2.3.0
 onnxruntime==1.14.1
-opencv-python==4.6.0.66
+opencv-python==4.8.1.78
 openpyxl==3.1.2
 packaging==23.1
 pandas==1.5.3
